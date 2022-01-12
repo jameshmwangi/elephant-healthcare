@@ -1,0 +1,144 @@
+.nav-wrapper{
+    background-color: #B1D422;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 1300px;
+    height: 150px;
+    margin-top: 0%;
+    margin-left: 0%;
+    padding-top: 0%;
+    padding-left: 0%;
+    
+
+}
+a{
+    text-decoration:none;
+}
+a :hover{
+    text-decoration: none;
+}
+.nav-wrapper{
+display: flex;
+justify-content: space-between;
+}
+.left-side{
+    display: flex;
+    justify-content: space-between;
+}
+.right-side{
+    display: flex;
+    justify-content: space-between;
+}
+.home-container{
+    width: 100px;
+    height: 50px;
+    left: 50px;
+    background-color:#B1D422 ;
+    position: absolute;
+    top: 37.68px;
+    background: linear-gradient(0deg, rgba(141, 207, 9, 0.5), rgba(141, 207, 9, 0.5)), rgba(25, 241, 47, 0.5);
+    box-shadow:  10px 10px 20px rgba(32, 38, 32, 0.5);
+    border-radius: 10px;
+}
+.about-us-container{
+    position: absolute;
+    width: 100;
+    height: 50px;
+    left: 200px;
+    top: 37.68px;
+    background: linear-gradient(0deg, rgba(141, 207, 9, 0.5), rgba(141, 207, 9, 0.5)), rgba(25, 241, 47, 0.5);
+    box-shadow:  10px 10px 20px rgba(32, 38, 32, 0.5);
+    border-radius: 10px;
+}
+.contact-us-container{
+    position: absolute;
+    width:100px;
+    height: 50px;
+    left: 350px;
+    top: 37.68px;
+    background: linear-gradient(0deg, rgba(141, 207, 9, 0.5), rgba(141, 207, 9, 0.5)), rgba(25, 241, 47, 0.5);
+    box-shadow:  10px 10px 20px rgba(32, 38, 32, 0.5);
+    border-radius: 10px;
+}
+.sign-in-page-container{
+    position: absolute;
+    width: 100px;
+    height: 50.16px;
+    right: 200px;
+    top: 37.68px;
+    background: linear-gradient(0deg, rgba(141, 207, 9, 0.5), rgba(141, 207, 9, 0.5)), rgba(25, 241, 47, 0.5);
+    box-shadow:  10px 10px 20px rgba(32, 38, 32, 0.5);
+    border-radius: 10px;
+}
+.sign-up-page-container{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    right: 50px;
+    top: 37.68px;
+    background: linear-gradient(0deg, rgba(141, 207, 9, 0.5), rgba(141, 207, 9, 0.5)), rgba(25, 241, 47, 0.5);
+    box-shadow: 10px 10px 20px rgba(32, 38, 32, 0.5);
+    border-radius: 10px;
+}
+.homepage{
+    position: absolute;
+    width: 80px;
+    height: 30px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    color: #F7F7F7;
+    margin: 10%;
+}
+.about-us{
+    position: absolute;
+    width: 80px;
+    height: 30px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 50px;
+    color: #F7F7F7;
+    margin: 10%;
+}
+.contact-us{
+    position: absolute;
+    width: 80px;
+    height: 30px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 30px;
+    color: #F7F7F7;
+    margin: 10%;
+    padding: 0%;
+}
+.sign-in-page{
+    position: absolute;
+    width: 80px;
+    height: 30px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #F7F7F7;
+    margin: 10%;
+}
+.sign-up-page{
+    position: absolute;
+    width: 80px;
+    height: 30px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #F7F7F7;
+    margin: 10%;
+}
