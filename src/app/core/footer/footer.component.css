@@ -1,11 +1,8 @@
 .footer{
     background: color #f7f7f7;
-    width: 1500px;
-    margin: 0%;
-    position: fixed;
+    position:fixed;
+    width: 1300px;
     bottom: 0%;
-    left: 0%;
-    height: 50px;
 }
 p{
     font-family: Poppins;
@@ -16,4 +13,6 @@ p{
 /* identical to box height */
     text-align: center;
     color: #4A9317;
+    position: absolute;
+    margin-left: 40%;
 }
